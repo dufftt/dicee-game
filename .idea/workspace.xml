@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e7e7bac-a529-4796-8aca-cbe109195ca7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_26" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fYmL5p3TH5xZC3q2VwxLSdFIwK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magic-8-ball-flutter" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e7e7bac-a529-4796-8aca-cbe109195ca7" name="Default Changelist" comment="" />
+      <created>1596403340515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596403340515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="280" width="524" height="601" key="FileChooserDialogImpl" timestamp="1596712429675">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="446" y="280" width="524" height="601" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1596712429675" />
+    <state width="1370" height="216" key="GridCell.Tab.0.bottom" timestamp="1596712688684">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1370" height="216" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1596712688684" />
+    <state width="1370" height="216" key="GridCell.Tab.0.center" timestamp="1596712688681">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1370" height="216" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1596712688681" />
+    <state width="1370" height="216" key="GridCell.Tab.0.left" timestamp="1596712688680">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1370" height="216" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1596712688680" />
+    <state width="1370" height="216" key="GridCell.Tab.0.right" timestamp="1596712688683">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1370" height="216" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1596712688683" />
+    <state x="325" y="101" width="1269" height="912" key="SettingsEditor" timestamp="1596403421854">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="325" y="101" width="1269" height="912" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1596403421854" />
+    <state x="100" y="127" width="1720" height="853" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1596706148158">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.android.tools.idea.avdmanager.AvdListDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1596706148158" />
+    <state x="292" y="44" width="840" height="1034" key="search.everywhere.popup" timestamp="1596708379893">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="292" y="44" width="840" height="1034" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1596708379893" />
+  </component>
+</project>
